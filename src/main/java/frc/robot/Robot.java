@@ -1,7 +1,6 @@
 package frc.robot;
 
 import com.revrobotics.spark.SparkMax;
-import com.revrobotics.spark.SparkBase;
 import com.revrobotics.spark.SparkLowLevel.MotorType;
 import com.revrobotics.spark.SparkRelativeEncoder;
 
